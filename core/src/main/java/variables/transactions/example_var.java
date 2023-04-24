@@ -15,7 +15,7 @@ public class example_var {
     public static String userIdLO ="mngr487499";
     public static String passwordLO ="secret_sauce";
     
-    public static String userIdPrblm ="heinrich.kanis@facegroup.co.za";
+    public static String userIdPrblm ="heinrich.kanis@test.com";
     public static String passwordPrblm ="secret_sauce";
     
     public static String userIdGlitch ="1303";
@@ -24,8 +24,8 @@ public class example_var {
     /* Telecom Test Variables */
     public static String firstName ="Heinrich";
     public static String LastName ="Kanis";
-    public static String email ="heinrich@facegroup.com";
-    public static String address ="22 Karree Street";
+    public static String email ="heinrich@test.com";
+    public static String address ="22 Test Street";
     public static String mobileNo ="0120033200";
     
 }
