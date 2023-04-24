@@ -12,7 +12,7 @@ public class desiredCaps {
     public static String platformVersion =   "12" ;
 
     /* The absolute local path or remote http URL */
-    public static String app =  "C:\\Toppan FaceTech\\Flutter Automation\\APK\\app-debug.apk" ;
+    public static String app =  "C:\\application location\\app-debug.apk" ;
 
     /* Device / emulator Name  */
     public static String deviceName = "pixel4-api" ;
